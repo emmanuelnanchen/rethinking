@@ -3,6 +3,8 @@
 ## 2nd Edition
 
 [to be filled]
+page 108, R code 4.61, sixth line of code refers to mu.HPDI which is unknown; thus it should read:
+shade( mu.PI, weight.seq )
 
 ## 1st Edition
 
